@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishhekbhj&label=Profile%20views&color=0e75b6&style=flat" alt="abhishhekbhj" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Flutter, Python, C#**
  
-- 💬 Ask me about **Flutter, Django, Python**
+- 💬 Ask me about **Flutter, Python, C#**
 
 - 📫 How to reach me **abhibhuje@gmail.com**
 
